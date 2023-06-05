@@ -1,0 +1,49 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fed7f9f0a748316a53f21f5bb8d5d833"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9817a17d74ab72dbff244916c25757645d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98220dfef0e4d7cdee3c9c7a2c27965b90"
+    }
+  ],
+  "containerPath" : "/Users/madesh/Developer/Cocoapods-Library/MyCocoapodsLibrary/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/madesh/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/madesh/Library/Developer/Xcode/DerivedData/Pods-ejshutmakineekfwjayegastydfr/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/madesh/Library/Developer/Xcode/DerivedData/Pods-ejshutmakineekfwjayegastydfr/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

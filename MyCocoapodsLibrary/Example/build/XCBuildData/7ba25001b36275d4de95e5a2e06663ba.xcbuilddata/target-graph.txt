@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+MyCocoapodsLibrary in Pods, no dependencies
+Pods-MyCocoapodsLibrary_Example in Pods, depends on:
+MyCocoapodsLibrary in Pods (explicit)
+Pods-MyCocoapodsLibrary_Tests in Pods, depends on:
+Pods-MyCocoapodsLibrary_Example in Pods (explicit)

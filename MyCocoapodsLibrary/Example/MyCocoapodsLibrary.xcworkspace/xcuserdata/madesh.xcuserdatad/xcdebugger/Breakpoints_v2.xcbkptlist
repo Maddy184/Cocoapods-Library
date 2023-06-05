@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4AE93194-2232-42AC-9C0E-CFEEF9E5BE92"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA5F081-EFEB-4D2D-88FB-477F3DC7748F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCocoapodsLibrary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "tabbarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48F7843C-4064-4ED6-8F12-7D65771BE8BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCocoapodsLibrary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "tabbarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "866219EB-6A00-4A03-B457-3482A1771B93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCocoapodsLibrary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tabbarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC9148EE-B3D5-46FA-AC3A-A32B513FD5B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCocoapodsLibrary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "tabbarController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC9148EE-B3D5-46FA-AC3A-A32B513FD5B7 - b33897fabc1ce131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCocoapodsLibrary_Example.ViewController.tabbarController() -&gt; ()"
+                  moduleName = "MyCocoapodsLibrary_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madesh/Developer/Cocoapods-Library/MyCocoapodsLibrary/Example/MyCocoapodsLibrary/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "BC9148EE-B3D5-46FA-AC3A-A32B513FD5B7 - b33897fabc1ce131"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCocoapodsLibrary_Example.ViewController.tabbarController() -&gt; ()"
+                  moduleName = "MyCocoapodsLibrary_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madesh/Developer/Cocoapods-Library/MyCocoapodsLibrary/Example/MyCocoapodsLibrary/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A100D2D-A3C6-4D8F-A4B8-157FDB5479A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyCocoapodsLibrary/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "tabbarController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A100D2D-A3C6-4D8F-A4B8-157FDB5479A0 - b33897fabc1ce1f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCocoapodsLibrary_Example.ViewController.tabbarController() -&gt; ()"
+                  moduleName = "MyCocoapodsLibrary_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madesh/Developer/Cocoapods-Library/MyCocoapodsLibrary/Example/MyCocoapodsLibrary/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "8A100D2D-A3C6-4D8F-A4B8-157FDB5479A0 - b33897fabc1ce1f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyCocoapodsLibrary_Example.ViewController.tabbarController() -&gt; ()"
+                  moduleName = "MyCocoapodsLibrary_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madesh/Developer/Cocoapods-Library/MyCocoapodsLibrary/Example/MyCocoapodsLibrary/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "896">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

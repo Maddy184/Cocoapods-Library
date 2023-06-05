@@ -1,0 +1,22 @@
+{
+  "name": "MyCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gothham/MyCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gothham": "Madeshkarthi71112@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/gothham/MyCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MyCocoapodsLibrary/Classes/**/*"
+}
